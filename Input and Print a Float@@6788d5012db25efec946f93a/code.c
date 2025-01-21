@@ -1,5 +1,9 @@
 #include <stdio.h>
 
-int main() {
-printf("abc");
+float main() {
+int a;
+scanf("%f",&a)
+printf("You entered:");
+printf("%f",a);
+printf("%2f");
 }
