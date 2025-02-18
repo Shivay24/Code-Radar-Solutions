@@ -4,5 +4,5 @@ float main() {
     float a;
     scanf("%f",&a);
 printf("You entered: ");
-printf("%.4f",a);
+printf("%.2f",a);
 }
